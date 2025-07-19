@@ -1,7 +1,7 @@
 
 # Internship Project
 
-This repository contains tasks completed during an internship focused on data analysis and machine learning using Python.
+This repository contains tasks completed for an internship focused on data analysis and machine learning using Python.
 
 ## 📁 Tasks
 
@@ -25,3 +25,16 @@ This repository contains tasks completed during an internship focused on data an
   - Null values
   - Categorical data (via one-hot encoding)
   - Outlier detection and removal
+
+### ✅ Task 3: Matrix Calculator
+- A GUI app to perform basic matrix operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Transpose
+  - Determinant
+## 🛠 Tech Used
+- Python
+- Tkinter
+- NumPy
+
