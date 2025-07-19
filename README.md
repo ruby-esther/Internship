@@ -1,11 +1,27 @@
-# Internship
 
-This has files for some tasks
+# Internship Project
 
-Task 1 - Basic data analysis
-used libraries like numpy and pandas
-simple visualization - using matlotlib and seaborn for better understanding of the data
+This repository contains tasks completed during an internship focused on data analysis and machine learning using Python.
 
-Task 2 - House price prediction
-Model created using LinearRegression
-Library used - scikitlearn for model training and for calculating metrics
+## 📁 Tasks
+
+### ✅ Task 1: Basic Data Analysis
+- Performed **exploratory data analysis (EDA)** using:
+  - `pandas` and `numpy` for data manipulation
+  - `matplotlib` and `seaborn` for data visualization
+- Key insights were drawn from:
+  - Histograms
+  - Boxplots
+  - Heatmaps
+
+### ✅ Task 2: House Price Prediction
+- Built a **Linear Regression model** to predict housing prices
+- Libraries used:
+  - `scikit-learn` for model training, preprocessing, and evaluation
+  - `pandas` for data handling
+- Evaluation metrics:
+  - Mean Absolute Error (MAE)
+- Handled:
+  - Null values
+  - Categorical data (via one-hot encoding)
+  - Outlier detection and removal
